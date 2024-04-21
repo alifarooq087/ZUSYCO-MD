@@ -20,7 +20,7 @@ module.exports = {
   SUDO_NUMBERS : "923156598103,923006586907",
   OWNER_NAME: "『 𝐹𝒜𝑅𝒪𝒪𝒬 𝒜 𝒮 』",
   BOT_NAME : "𝐹𝒜𝑅𝒪𝒪𝒬 𝒜 𝒮",
-  ZUSYCO_FILE : "𝐹𝒜𝑅𝒪𝒪𝒬 𝒜 𝒮",
+  ZUSYCO_FILE : "ZUSYCO-QR.nima",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
